@@ -3,6 +3,8 @@ LINK:  https://marinkiet.github.io/addProductToCart/
 <br>
 ![image](https://user-images.githubusercontent.com/69327534/167307960-97b282d2-7fb8-48e8-bf77-29f40f492333.png)
 <br>
+Hover over image to view details
+<br>
 ![image](https://user-images.githubusercontent.com/69327534/167307995-20c934b2-f143-4b1e-90ff-dcee161ab1b9.png)
 <br>
 On click 'add to cart' animate duplicate of image and increment cart total
